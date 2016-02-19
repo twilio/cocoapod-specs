@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.13.6"
   s.summary      = "Twilio IP Messaging Client"
   s.description  = "The Twilio IP Messaging Client"
-  s.homepage     = "http://www.twilio.com/client"
+  s.homepage     = "https://www.twilio.com/ip-messaging"
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
