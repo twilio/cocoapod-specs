@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.2.0"
   s.summary      = "Twilio Common"
   s.description  = "Shared components for Twilio mobile SDKs."
-  s.homepage     = "http://www.twilio.com/client"
+  s.homepage     = "http://www.twilio.com/"
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
