@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
-    :text => "Copyright 2011-2015 Twilio. All rights reserved. Use of this software is subject to the terms and conditions of the Twilio Terms of Service located at http://www.twilio.com/legal/tos"
+    :text => "Copyright 2011-2016 Twilio. All rights reserved. Use of this software is subject to the terms and conditions of the Twilio Terms of Service located at http://www.twilio.com/legal/tos"
   }
   s.author       = { "Twilio" => "help@twilio.com" }
   s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/common/releases/0.2.0/twilio-common-ios-0.2.0.tar.bz2" }
