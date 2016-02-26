@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
   s.vendored_frameworks   = "TwilioConversationsClient.framework"
   s.requires_arc          = true
   s.xcconfig              = { 'OTHER_LDFLAGS' => '-ObjC' }
+  s.dependency "TwilioCommon", "~> 0.2.0"
 end
