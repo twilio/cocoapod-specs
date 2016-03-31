@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "TwilioSDK"
+  s.name         = "TwilioClient"
   s.version      = "1.2.8"
   s.summary      = "Twilio Client SDK"
   s.description  = "Twilio Client has the features that make it easy to embed VoIP directly into your iOS apps."
