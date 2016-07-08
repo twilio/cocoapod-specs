@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.libraries             = "c++"
   s.vendored_frameworks   = "TwilioIPMessagingClient.framework"
   s.requires_arc          = true
-  s.dependency "TwilioCommon", "~> 0.2.2"
+  s.dependency "TwilioCommon", ">= 0.2.2", "~> 0.3.0"
 end
