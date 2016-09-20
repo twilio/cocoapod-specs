@@ -11,7 +11,6 @@ Pod::Spec.new do |s|
   }
   s.author       = { "Twilio" => "help@twilio.com" }
   s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/video/releases/1.0.0-preview1/twilio-video-ios-1.0.0-preview1.tar.bz2" }
-  s.frameworks            = "AudioToolbox", "VideoToolbox", "AVFoundation", "CoreTelephony", "GLKit", "CoreMedia", "SystemConfiguration"
   s.libraries             = "c++"
   s.vendored_frameworks   = "TwilioVideo.framework"
   s.requires_arc          = true
