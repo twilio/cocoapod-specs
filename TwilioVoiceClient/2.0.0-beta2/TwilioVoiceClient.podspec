@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "2.0.0-beta2"
   s.summary      = "Twilio Voice Client"
   s.description  = "Twilio Voice Client has the features that make it easy to embed VoIP directly into your iOS apps."
-  s.homepage     = "http://www.twilio.com/client"
+  s.homepage     = "http://www.twilio.com/docs/api/voice-sdk"
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
