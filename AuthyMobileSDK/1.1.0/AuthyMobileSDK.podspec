@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name         = "TwilioAuthy"
+  s.name         = "AuthyMobileSDK"
   s.version      = "1.1.0"
-  s.summary      = "Twilio Authy"
+  s.summary      = "Authy Mobile SDK"
   s.description  = "The Authy Mobile SDK"
   s.homepage     = "http://www.twilio.com/"
   s.platform     = :ios, "8.1"
