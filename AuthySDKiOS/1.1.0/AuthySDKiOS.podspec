@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "AuthyMobileSDK"
+  s.name         = "AuthySDKiOS"
   s.version      = "1.1.0"
   s.summary      = "Authy Mobile SDK"
   s.description  = "The Authy Mobile SDK"
@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   }
   s.author       = { "Twilio" => "help@twilio.com" }
   s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/authy/releases/1.1.0/twilio-authy-ios-1.1.0.tar.bz2" }
-  s.vendored_frameworks   = "AuthyMobileSDK.framework"
+  s.vendored_frameworks   = "AuthySDKiOS.framework"
 end
