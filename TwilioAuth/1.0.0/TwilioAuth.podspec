@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "TwilioAuthy"
+  s.name         = "TwilioAuth"
   s.version      = "1.0.0"
   s.summary      = "Authy Mobile SDK"
   s.description  = "The Authy Mobile SDK"
@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
     :text => "Copyright 2011-2017 Twilio. All rights reserved. Use of this software is subject to the terms and conditions of the Twilio Terms of Service located at http://www.twilio.com/legal/tos"
   }
   s.author       = { "Twilio" => "help@twilio.com" }
-  s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/authy/releases/1.0.0/twilio-authy-ios-1.0.0.tar.bz2" }
-  s.vendored_frameworks   = "TwilioAuthy.framework"
+  s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/auth/releases/1.0.0/twilio-auth-ios-1.0.0.tar.bz2" }
+  s.vendored_frameworks   = "TwilioAuth.framework"
 end
