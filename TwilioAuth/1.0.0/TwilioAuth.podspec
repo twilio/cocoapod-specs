@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "Authy Mobile SDK"
   s.description  = "The Authy Mobile SDK"
-  s.homepage     = "http://www.twilio.com/"
+  s.homepage     = "https://www.twilio.com/two-factor-authentication"
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
