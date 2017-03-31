@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.17.2"
   s.summary      = "Twilio Programmable Chat Client"
   s.description  = "Twilio Programmable Chat Client"
-  s.homepage     = "http://www.twilio.com/client"
+  s.homepage     = "http://www.twilio.com/chat"
   s.platform     = :ios, "8.1"
   s.license      = { 
     :type => "Commercial", 
