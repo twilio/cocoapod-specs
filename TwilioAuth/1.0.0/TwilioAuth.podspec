@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   s.vendored_frameworks   = "TwilioAuth.framework"
   s.requires_arc          = true
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
+  s.deprecated = true
 end
