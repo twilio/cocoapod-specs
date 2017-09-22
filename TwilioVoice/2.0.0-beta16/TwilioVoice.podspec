@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
   s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/voice/releases/2.0.0-beta16/twilio-voice-ios-2.0.0-beta16.tar.bz2" }
   s.vendored_frameworks   = "TwilioVoice.framework"
   s.requires_arc          = true
+  s.xcconfig              = { 'OTHER_LDFLAGS' => '-ObjC' }
 end
