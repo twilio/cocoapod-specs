@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     :text => "Copyright © 2011-2017 Twilio, Inc. All rights reserved. Use of this software is subject to the terms and conditions of the Twilio Terms of Service located at http://www.twilio.com/legal/tos"
   }
   s.author       = { "Twilio" => "help@twilio.com" }
-  s.source       = { :http    => "https://stage.twiliocdn.com/sdk/ios/voice/releases/2.0.0/twilio-voice-ios-2.0.0.tar.bz2" }
+  s.source       = { :http    => "https://media.twiliocdn.com/sdk/ios/voice/releases/2.0.0/twilio-voice-ios-2.0.0.tar.bz2" }
   s.vendored_frameworks   = "TwilioVoice.framework"
   s.requires_arc          = true
   s.xcconfig              = { 'OTHER_LDFLAGS' => '-ObjC' }
